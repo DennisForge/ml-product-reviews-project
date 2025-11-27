@@ -1,0 +1,64 @@
+
+🔎 Logistic Regression
+              precision    recall  f1-score   support
+
+         nan       0.00      0.00      0.00       999
+    negative       0.85      0.93      0.89      8933
+     neutral       0.71      0.51      0.60      2735
+    positive       0.93      0.97      0.95     21524
+
+    accuracy                           0.90     34191
+   macro avg       0.62      0.60      0.61     34191
+weighted avg       0.87      0.90      0.88     34191
+
+
+🔎 Naive Bayes
+              precision    recall  f1-score   support
+
+         nan       0.00      0.00      0.00       999
+    negative       0.83      0.89      0.86      8933
+     neutral       0.81      0.27      0.41      2735
+    positive       0.89      0.98      0.93     21524
+
+    accuracy                           0.87     34191
+   macro avg       0.63      0.54      0.55     34191
+weighted avg       0.84      0.87      0.84     34191
+
+
+🔎 Decision Tree
+              precision    recall  f1-score   support
+
+         nan       0.03      0.02      0.02       999
+    negative       0.85      0.89      0.87      8933
+     neutral       0.59      0.57      0.58      2735
+    positive       0.93      0.94      0.94     21524
+
+    accuracy                           0.87     34191
+   macro avg       0.60      0.60      0.60     34191
+weighted avg       0.86      0.87      0.86     34191
+
+
+🔎 Random Forest
+              precision    recall  f1-score   support
+
+         nan       0.03      0.00      0.01       999
+    negative       0.87      0.94      0.90      8933
+     neutral       0.75      0.51      0.61      2735
+    positive       0.93      0.97      0.95     21524
+
+    accuracy                           0.90     34191
+   macro avg       0.64      0.61      0.62     34191
+weighted avg       0.87      0.90      0.88     34191
+
+
+🔎 Support Vector Machine
+              precision    recall  f1-score   support
+
+         nan       0.00      0.00      0.00       999
+    negative       0.85      0.93      0.89      8933
+     neutral       0.71      0.50      0.59      2735
+    positive       0.93      0.97      0.95     21524
+
+    accuracy                           0.89     34191
+   macro avg       0.62      0.60      0.61     34191
+weighted avg       0.86      0.89      0.88     34191
