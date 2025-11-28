@@ -62,6 +62,7 @@ datasets/
 *.h5
 *.model
 models/
+model/
 
 # macOS
 .DS_Store
