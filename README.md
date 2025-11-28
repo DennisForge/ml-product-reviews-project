@@ -1,4 +1,4 @@
-# Product Reviews Sentiment Analysis
+# 🧠 Sentiment Analysis ML Project (Complete Pipeline)
 
 A machine learning project that classifies customer product reviews into sentiment categories using natural language processing and multiple classification algorithms.
 
